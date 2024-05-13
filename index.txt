@@ -1,0 +1,6 @@
+END USER LICENSE AGREEMENT
+
+This software repository and its contents are owned by me and protected by copyright laws. You are granted a non-exclusive, non-transferable license to use this software, but you may not copy, modify, distribute, or create derivative works from it without my explicit permission.
+I provide this software as-is, without any warranties or guarantees. I am not responsible for any damages, losses, or issues that may arise from using this software.
+By downloading, installing, or using this software, you acknowledge that you have read and agree to be bound by the terms of this license agreement. If you do not agree with these terms, do not download, install, or use this software.
+This EULA may be modified at any time without notice. Your continued use of the software after any changes constitutes acceptance of the new terms.
