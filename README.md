@@ -11,3 +11,6 @@ Yes, you can.
 
 ## Can I modify this EULA and use the modified version as my own EULA?
 Yes, you can. Just ask me for the permissions.
+
+## Do I need to credit you for using this EULA for my own project?
+Not required but I will appreciate it when you give me the credit.
