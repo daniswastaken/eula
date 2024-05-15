@@ -1,7 +1,7 @@
 # FAQ 🔍
 This is the list of question you maight be asking. If your question is not here or you want to ask me another question you can contact me through Discord.
 
-## 🤔 What is this? 
+## What is this? 🤔 
 This is my own EULA that I used on my project.
 
 ## Does all your project use this EULA?
